@@ -1,6 +1,6 @@
 flask
 numpy
-scikit-learn==1.0.2  # This version is compatible with Python 3.11
+pandas
 gunicorn
 joblib
 gdown
