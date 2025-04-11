@@ -4,7 +4,3 @@ scikit-learn
 pickle
 joblib
 gdown
-sklearn.metrics
-sklearn.ensemble
-sklearn.preprocessing
-sklearn.model_selection
