@@ -1,0 +1,8 @@
+Time,Full Name,Date of Birth,Gender,Email,Phone,Address,No of dependents,Education,Employment,Income,Loan Amount,Loan Term,Residential Assets Value,Commercial Assets Value,Luxury Assets Value,Bank Asset Value,Job Years,Existing Loans,Credit Score,Loan Purpose,Application ID,Predicted_Approval,Approval_Probability,Approval_Probability_Pct
+4/12/2025 11:17:52,John Doe,1999-01-01,Male,jtagbor@wm.edu,1230550879,PO BOX 8795,0, Graduate, No,300000,30000,48,250000,20000,40000,85000,10,0,750,Personal,e0657357-5ae9-4f23-a5a1-b1b34b619475,Approved,0.74,74.0
+4/12/2025 12:47:47,James Bond,2001-01-01,Male,brajaycee@gmail.com,7571234425,PO BOX 8795,0, Graduate,,0,30000,48,40000,10000,20000,50000,15,0,0,Personal,APP-O9VVIDBY9,Rejected,0.05,5.0
+4/12/2025 14:05:13,John Doe,1999-01-01,Male,jtagbor@wm.edu,1230550879,PO Box 8795,0, Graduate, Yes,0,20000,40,50000,60000,20000,20000,15,0,0,Personal,APP-Z5BEZX16G,Rejected,0.05,5.0
+4/12/2025 14:34:34,Mac n Cheese,2001-01-01,Male,brajaycee@gmail.com,7571234425,PO BOX 8795,0, Graduate, No,0,20000,48,40000,30000,20000,10000,5,0,0,Personal,APP-Q3W9KC640,Rejected,0.05,5.0
+4/12/2025 16:52:12,Snoop Dogg,1955-01-01,Male,sndogg@gmail.com,7877125555,PO BOX 8795,20, Not Graduate, Yes,0,1000000,64,200000,200000,300000,500000,20,6,0,Personal,APP-FU7ZE7S3D,Rejected,0.03,3.0
+4/12/2025 19:03:22,Chicken Bone  ,1955-01-01,Female,sndogg@gmail.com,7877125555,PO BOX 8795,20, Not Graduate, No,0,1000000,64,200000,200000,300000,500000,20,6,0,Personal,APP-D7G17R6RP,Rejected,0.02,2.0
+4/12/2025 19:03:24,Chicken Bone  ,1955-01-01,Female,sndogg@gmail.com,7877125555,PO BOX 8795,20, Not Graduate, No,0,1000000,64,200000,200000,300000,500000,20,6,0,Personal,APP-D7G17R6RP,Rejected,0.02,2.0
